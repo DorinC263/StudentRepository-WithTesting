@@ -1,0 +1,16 @@
+Dec 20, 2023 4:59:00 PM org.example.Main main
+INFO: Starting Log
+Dec 20, 2023 4:59:00 PM org.example.StudentRepository addStudent
+INFO: New student added: Student: FistName: Alice, LastName: Mihai, BirthYear: 2000, BirthMonth: 5, BirthDay: 14, Gender: Female, Id: 2322341232123
+Dec 20, 2023 4:59:00 PM org.example.StudentRepository addStudent
+INFO: New student added: Student: FistName: Cristian, LastName: Andrei, BirthYear: 1998, BirthMonth: 12, BirthDay: 22, Gender: Male, Id: 1323422323221
+Dec 20, 2023 4:59:00 PM org.example.StudentRepository addStudent
+INFO: New student added: Student: FistName: Mihai, LastName: Popovici, BirthYear: 1988, BirthMonth: 1, BirthDay: 9, Gender: Male, Id: 1323212232218
+Dec 20, 2023 4:59:00 PM org.example.StudentRepository addStudent
+INFO: New student added: Student: FistName: Cristina, LastName: Longbottom, BirthYear: 2001, BirthMonth: 6, BirthDay: 2, Gender: Female, Id: 2323422321231
+Dec 20, 2023 4:59:00 PM org.example.StudentRepository listStudentsOrderByLastName
+INFO: Students listed in order of Last Name
+Dec 20, 2023 4:59:00 PM org.example.StudentRepository listStudentsOrderByBirthDate
+INFO: Students listed in order of Birth Date
+Dec 20, 2023 4:59:00 PM org.example.Main main
+INFO: Ending Log
